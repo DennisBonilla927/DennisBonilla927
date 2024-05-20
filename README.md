@@ -93,12 +93,7 @@
 <p><strong>Sistema de permisos y vacaciones para la mancomunidad de transito de tungurahua</strong></p>
 </div>
                                                                                       
-</td>       
-
-<td width="50%">
-
-                                                                                      
-</td>  
+</td>        
 </table>                                                                                 
 </div>
 <br>
